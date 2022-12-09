@@ -310,6 +310,15 @@
       "name": "ApeSwap Finance Banana",
       "decimals": 18,
       "tags": ["telosevm"]
+    },
+    {
+      "chainId": 40,
+      "address": "0x063092a8C8fa5E863Ab2a1E3619Fb660cA89b4E5",
+      "symbol": "GEMP",
+      "logoURI": "https://gemtexch.infura-ipfs.io/ipfs/QmQE7oemqqRU4v5buEBzWTzY5BANbUFRsfeytEnmuKADjZ",
+      "name": "Gem Point",
+      "decimals": 18,
+      "tags": ["telosevm"]
     }
   ],
   "version": {
